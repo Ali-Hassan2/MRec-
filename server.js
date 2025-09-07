@@ -101,6 +101,7 @@ app.get("/join/:code", (req, res) => {
 app.get("/getqr", (req, res) => {
   if (qrData && !qrShown) {
     qrShown = true
+    
     return res.json({ qr: qrData })
   }
   res.json({ qr: null })
