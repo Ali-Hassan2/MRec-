@@ -1,0 +1,26 @@
+2025/09/07-15:04:14.672 18b04 Reusing MANIFEST /home/ali/Downloads/Documents/WEB DEVELOPMENT/Real Life Project/MRec/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/07-15:04:14.673 18b04 Recovering log #72
+2025/09/07-15:04:14.704 18b04 Reusing old log /home/ali/Downloads/Documents/WEB DEVELOPMENT/Real Life Project/MRec/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000072.log 
+2025/09/07-15:04:14.705 18b04 Delete type=2 #73
+2025/09/07-15:04:14.705 18b04 Delete type=2 #71
+2025/09/07-15:04:16.768 18b05 Level-0 table #77: started
+2025/09/07-15:04:16.778 18b05 Level-0 table #77: 291516 bytes OK
+2025/09/07-15:04:16.780 18b05 Delete type=0 #72
+2025/09/07-15:04:16.781 18b03 Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/07-15:04:16.784 18b03 Level-0 table #79: started
+2025/09/07-15:04:16.787 18b03 Level-0 table #79: 435 bytes OK
+2025/09/07-15:04:16.791 18b03 Delete type=0 #76
+2025/09/07-15:04:16.791 18b03 Manual compaction at level-0 from '\x00$\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at '\x00$\x00\x00\x05' @ 142297 : 0
+2025/09/07-15:04:16.791 18b03 Compacting 1@0 + 1@1 files
+2025/09/07-15:04:16.813 18b03 Generated table #80@0: 7454 keys, 179201 bytes
+2025/09/07-15:04:16.813 18b03 Compacted 1@0 + 1@1 files => 179201 bytes
+2025/09/07-15:04:16.817 18b03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/07-15:04:16.817 18b03 Delete type=2 #79
+2025/09/07-15:04:16.818 18b03 Manual compaction at level-0 from '\x00$\x00\x00\x05' @ 142297 : 0 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/07-15:04:19.665 18b04 Compacting 1@1 + 1@2 files
+2025/09/07-15:04:19.769 18b04 Generated table #81@1: 29967 keys, 1621255 bytes
+2025/09/07-15:04:19.769 18b04 Compacted 1@1 + 1@2 files => 1621255 bytes
+2025/09/07-15:04:19.772 18b04 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/07-15:04:19.774 18b04 Delete type=2 #80
+2025/09/07-15:04:19.774 18b04 Delete type=2 #77
+2025/09/07-15:04:19.774 18b04 Delete type=2 #74
